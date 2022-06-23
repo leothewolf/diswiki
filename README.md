@@ -34,7 +34,7 @@
 
 ## 🔗 Links
 
-Privacy Policy : https://github.com/leothewolf/leothewolf/blob/main/diswiki/diswiki_privacy_policy.md
+Privacy Policy : https://github.com/leothewolf/diswiki/blob/main/diswiki_privacy_policy.md
 
 Support Server : https://discord.gg/n4utnPjeWP
 

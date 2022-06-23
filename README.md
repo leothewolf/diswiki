@@ -27,10 +27,10 @@
 ## 🖼️ Images
 
 + Demo of `-info` command
-<img src="https://raw.githubusercontent.com/leothewolf/leothewolf/main/diswiki/img/userinfo.png" alt="Diswiki Discord Bot">
+<img src="https://raw.githubusercontent.com/leothewolf/diswiki/main/img/userinfo.png" alt="Diswiki Discord Bot">
 
 + Demo of `inbuilt captcha verification` system
-<img src="https://raw.githubusercontent.com/leothewolf/leothewolf/main/diswiki/img/ewqr.png" alt="Diswiki Discord Bot">
+<img src="https://raw.githubusercontent.com/leothewolf/diswiki/main/img/ewqr.png" alt="Diswiki Discord Bot">
 
 ## 🔗 Links
 

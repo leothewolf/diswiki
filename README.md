@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <img width = "300" src="https://raw.githubusercontent.com/leothewolf/leothewolf/main/diswiki/DiSWIKI%20Logo.png?token=GHSAT0AAAAAABVQG2MZA6HRHSYMLGKFNNBWYVEI2BQ" alt="Diswiki Discord Bot">
+  <img width = "300" src="https://raw.githubusercontent.com/leothewolf/diswiki/main/img/DiSWIKI%20Logo.png" alt="Diswiki Discord Bot">
   <br>
 </div>
 

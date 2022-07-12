@@ -53,3 +53,17 @@
 > <br>
 > <br>
 > [Replace `2345` , `3456` & `4567` with `age role`'s `bot role`'s & `unverified bot role`'s ID respectively.]
+
+<br>
+
+> **Q. Can I get logs of people who are auto verified?**
+> <br>
+> Yes, just run following command `.auto_update -c` followed by channel ID (after space) where you want logs to be posted.
+
+<br>
+
+> **Q. I have one million people who were already age and bot verified can I add the to database?**
+> <br>
+> Yes, after going through all the steps above run following commands:
+>   + `.mbot`
+>   + `.mage`

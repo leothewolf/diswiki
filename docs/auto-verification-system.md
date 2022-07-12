@@ -10,10 +10,12 @@
 > Head over to server settings and create two roles
 >   + `Auto verified age role` : role assigned on automatic age verification
 >   + `Auto verified bot role` : role assigned on automatic bot verification
-
-<br>
-
-> Copy role IDs of `auto verified age role` & `auto verified bot role`. Let's assume them to be `1234` and `5678` respectively. Next, head over to any channel and run following command:
+> <br>
+> 
+> Let's assume their ID's to be `1234` and `5678` respectively. 
+> <br>
+> <br>
+> Next, head over to any channel and run following command:
 > <br>
 > <br>
 > `.auto_start -avr 1234 -bvr 5678`
@@ -42,8 +44,12 @@
 >   + `bot role` : role which is assigned on manual captcha (bot) verification 
 >   + `unverified bot role` : role which is assigned on server join and removed on captcha verification
 >
-> And let their ID's be respectively `2345` & `3456`
+> Let's assume their ID's to be respectively `2345` , `3456` & `4567`
+> <br>
 > <br>
 > Now run following command to add that to bot's database
 > <br>
-> `.auto_update -ar 2345 -br 3456`
+> `.auto_update -ar 2345 -br 3456 -bur 4567`
+> <br>
+> <br>
+> [Replace `2345` , `3456` & `4567` with `age role`'s `bot role`'s & `unverified bot role`'s ID respectively.]

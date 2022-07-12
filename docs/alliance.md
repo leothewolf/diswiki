@@ -1,6 +1,7 @@
 ## Alliance
 
 > **Q. What is alliance?**
+> <br>
 > Alliance is a group of servers in which users can cross age and bot verify.
 
 <br>

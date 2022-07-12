@@ -1,3 +1,7 @@
+## Captcha (bot) verification
+
+<br>
+
 First of all setup two roles from `server settings`.
 > + `Unverified bot role` : Role assigned on server join and removed on bot verification
 > + `Verified bot role` : Role assigned on bot verification 

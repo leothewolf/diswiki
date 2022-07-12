@@ -1,10 +1,13 @@
 ## Alliance
 
-> So, to setup alliance just type following command in bot's DM:
+> **Q. What is alliance?**
+> Alliance is a group of servers in which users can cross age and bot verify.
+
+<br>
+
+> **Q. How to setup alliance?**
 > <br>
-> `.alliance_register`
-> <br>
-> Here, you will get an alliance ID. Let's say it is `1234`.
+> Just type `.alliance_register` in bot's DM
 
 <br>
 
@@ -30,3 +33,15 @@
 > **Q. How can a server leave an alliance?**
 > <br>
 > Server staff needs to type `.alliance_leave` to leave alliance.
+
+<br>
+
+> **Q. Is it possible to view all alliance join requests sent to me?**
+> <br>
+> Yes, just type `.alliance_rdetails` in bot's DM.
+
+<br>
+
+> **Q. Is it possible to delete my alliance?**
+> <br>
+> Yes, just type `.alliance_rm` in bot's DM.

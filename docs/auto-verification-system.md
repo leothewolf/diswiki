@@ -65,5 +65,5 @@
 > **Q. I have one million people who were already age and bot verified can I add the to database?**
 > <br>
 > Yes, after going through all the steps above run following commands:
->   + `.mbot`
->   + `.mage`
+>   + `.mbot` : add users with `age role` to database
+>   + `.mage` : add users with `bot role` to database

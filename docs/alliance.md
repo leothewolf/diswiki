@@ -24,3 +24,9 @@
 > **Q. How to remove a server from alliance?**
 > <br>
 > Just type `.alliance_remove` followed by server ID after space.
+
+<br>
+
+> **Q. How can a server leave an alliance?**
+> <br>
+> Server staff needs to type `.alliance_leave` to leave alliance.

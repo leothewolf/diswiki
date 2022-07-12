@@ -11,7 +11,7 @@
 > **Q. How can server join your alliance?**
 > <br>
 > When staff will run `.alliance_request` followed by your alliance ID after space, you will recieve a request. Accept it by typing `.alliance_approve` followed by server ID after space.
-> [To disapprove the server from alliance type `.disapprove` followed by server ID after space]
+> [To disapprove the server from alliance type `.alliance_disapprove` followed by server ID after space]
 
 <br>
 
